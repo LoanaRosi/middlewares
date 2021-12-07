@@ -1,0 +1,6 @@
+El usuario ingreso a la ruta: /
+El usuario ingreso a la ruta: /register
+El usuario ingreso a la ruta: /register
+El usuario ingreso a la ruta: /admin
+El usuario ingreso a la ruta: /admin?user=Greta
+El usuario ingreso a la ruta: /
